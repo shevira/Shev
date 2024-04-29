@@ -1,0 +1,11 @@
+5 orang makan apel
+a = ari 
+b = bani 
+c = cia
+d = danny
+e = elang
+c > a > e
+d > b
+d > c > b
+kesimpulan : d > c > a > b > e
+urutan ke- 3 adalah ari
