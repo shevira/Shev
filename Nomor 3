@@ -1,0 +1,10 @@
+# polisi = selalu benar ; pencuri = selalu bohong
+# hari : "Salah satu pernyataan yang saya katakan adalah benar, yaitu Budi adalah pencuri atau saya adalah polisi"
+# lestari : "Hari bisa saja menuduh bahwa saya adalah pencuri"
+# budi : "Lestari dan Hari bukanlah seorang polisi"
+
+pernyataan hari = budi pencuri, saya polisi 
+pernyataan lestari = lestari adalah polisi
+pernyataan budi = lestari dan hari adalah polisi
+
+hari dan lestari adalah polisi, sedangkan budi adalah pencuri
